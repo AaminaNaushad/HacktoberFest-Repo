@@ -3,6 +3,7 @@
 #include<string.h>
 #include<conio.h>
 #include<ctype.h>
+#include<math.h>
 
 void main()
 {
